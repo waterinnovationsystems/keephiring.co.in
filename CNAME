@@ -1,5 +1,1 @@
-# DNS Zone File – keephiring.in (CNAME setup)
-
-$TTL 3600
-
-www     IN  CNAME   keephiring.in
+keephiring.in
